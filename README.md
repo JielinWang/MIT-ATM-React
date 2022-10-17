@@ -8,5 +8,8 @@ A ATM simulation using React, and useState Hook.
 - npm install -- npm start 
 - Note: use node version 16
 
+## Screenshoot for the app
+
 ![image](./ATM.png)
+
 
